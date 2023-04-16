@@ -1,0 +1,1 @@
+This directory is for packages that can be used by external applications or libraries.

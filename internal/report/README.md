@@ -1,0 +1,1 @@
+This package is responsible for processing, analyzing, and formatting the scan results.

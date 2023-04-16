@@ -1,0 +1,1 @@
+This directory contains the entry point of the application (main.go), where you'll parse command-line arguments and call functions from the internal/ package to run the tool.

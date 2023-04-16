@@ -1,0 +1,1 @@
+This directory contains the core functionalities of the application, organized into sub-packages. These packages are not intended to be used outside of the project.

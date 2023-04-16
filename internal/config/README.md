@@ -1,0 +1,1 @@
+This package handles the configuration of your application, such as loading settings from a configuration file or environment variables.
