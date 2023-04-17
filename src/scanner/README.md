@@ -1,0 +1,1 @@
+This module contains the logic for interacting with various vulnerability scanners, such as initiating scans and fetching results.
